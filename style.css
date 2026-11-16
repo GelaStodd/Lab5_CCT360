@@ -9,7 +9,9 @@ body {
     width: 80%;
     height: auto;
     border: none;
+    margin: auto;
     border-radius: 10px;
+
 }
 
 #ExperienceBtn, #EndExperienceBtn {
