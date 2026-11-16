@@ -12,8 +12,8 @@ body {
     border-radius: 10px;
 }
 
-#ExperienceBtn {
-    background-color: #df9c59; /* Green */
+#ExperienceBtn, #EndExperienceBtn {
+    background-color: #df9c59; 
     border: none;
     color: white;
     border-radius: 12px;
@@ -22,4 +22,8 @@ body {
     font-size: 1em;
     margin: 10px 10px;
     cursor: pointer;
+}
+
+#EndExperienceBtn {
+    background-color: #ee7474; /* Red */
 }
